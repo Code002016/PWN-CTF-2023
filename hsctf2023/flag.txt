@@ -1,0 +1,5 @@
+flag{asbbbbbbbbbbbbbbbbbbacccccccccccccccc}
+
+ 0x61637b67 0x675f7374 0x656d5f6f 0x7d776f 0x925a1a0 
+alf ac{g g_st em_o }wo
+flag{cats_go_meow}
