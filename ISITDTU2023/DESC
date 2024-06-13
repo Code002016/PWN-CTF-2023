@@ -1,0 +1,12 @@
+name: ```Time controller```
+file cho người chơi: ```ForUser.zip```
+setup: ```./setup.sh`` => mở port ```2000```
+desc: ```Do you know the time stone?```
+
+name: ```Ez get flag```
+file cho người chơi: ```ForUser.zip```
+setup: ```./setup.sh`` => mở port ```3000```
+desc: ```So ezzzzzzzzzzzzzzzzzzzzzzzzzzz!```
+
+name: ```Ez get flag 2```
+desc: ```Can you get another flag at the warehouse? Hope it's still ez!```
