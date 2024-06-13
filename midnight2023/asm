@@ -1,0 +1,1876 @@
+db 0x1f
+mov ecx,[rax]
+add [rax],al
+add [rax],al
+add [rax],al
+add ebp,ebp
+cmp ebp,[rbp+0x70]
+push rsp
+mov r14b,0x3d
+xchg eax,ebx
+or [rcx],ecx
+and [rcx],dl
+push rax
+pop rax
+mov ecx,0xc80480b0
+cwde
+add al,0x44
+add dword [rax+rbx],0x8c03de3e
+stc
+push rax
+db 0x17
+push rsi
+db 0x2f
+db 0x37
+xor esi,[rdi]
+cdq
+cmp ecx,0x217b99da
+push rax
+mov al,[qword 0xc7d656cc619417b0]
+
+stosb
+push rbp
+db 0x8f
+sub eax,0x71bac9e1
+rex.wxb
+sub rax,0xfffffffffa1e58bf
+and al,[rcx+0x44]
+retf
+jnl 0xffffffffffffffee
+xchg edi,[rbp+rbp+0x1b5595f6]
+jns 0x1a
+out dx,eax
+mov dl,0x82
+iret
+sub al,0x44
+mov ah,cl
+cmp esp,[rdi+0x73a66fbb]
+adc esp,byte -0x2
+fst dword [rdi-0x5]
+db 0x63
+cmp dh,[rbp+0x72]
+cli
+hlt
+cmp [rbp-0x6],edi
+pushf
+out dx,al
+mov esi,0xe9dcfb7d
+jng 0x4b
+mov ebx,0xe1c3996a
+and [rsi-0x36],dl
+cmp dword [rdi],0x228fd6a4
+fs
+db 0x0e
+loopne 0x72
+out 0xb3,eax
+repne cmp [rdx-0x3d],eax
+leave
+jz 0x97
+add esi,[rdx]
+or dword [rcx],0x7ac1678c
+db 0x07
+add edx,[rdi]
+db 0x61
+nop
+add esi,[rax+0x428191cf]
+ret 0x7900
+db 0x0e
+db 0x0e
+db 0x62
+pop rdx
+cmp al,[rcx+rax-0x18feb60e]
+db 0x17
+fs
+db 0x60
+rex.rxb
+db 0x1e
+sbb dword [rcx+rdx*4+0x2f],byte +0x65
+mov al,[qword 0xb003cfbfac40c5d7]
+
+nop
+or dword [rcx],0x424ea505
+in eax,dx
+rex.rx
+fs leave
+jng 0xc8
+out dx,eax
+pop rdi
+enter 0x97a0,0x30
+sbb [rdx+0x32],al
+ds mov ah,0x3a
+xor dh,[rax+0x78b03094]
+push rbp
+pop rdi
+push byte -0x2
+salc
+o64 shl r11b,byte 0xf0
+or ah,[rcx+0x60]
+int1
+db 0x1f
+add al,0x3e
+mov ecx,0x5dc21a41
+stosb
+db 0x06
+mov esi,0xc1c85f68
+shr dl,byte 0x9f
+mov ebx,0xbbfac142
+rex.x
+db 0xfe
+xchg eax,edx
+push rax
+xor [rdx+0x51127937],ah
+cmp r11,r12
+adc eax,0xbe5dbef1
+cmpsb
+mov ss,[rsi+rdi*8-0x1f]
+js 0x183
+stc
+in eax,0xb6
+pop rax
+db 0xea
+loopne 0xe6
+test eax,0x5f9fdde1
+test eax,0xdbaeddfb
+pop rsp
+pop rsp
+mov edi,0x2e10cb83
+out dx,eax
+in al,0xed
+and ebx,[rsi]
+db 0xc7
+stc
+mov ecx,0x7b10fac
+imul ebx,ecx,dword 0xdff8ffab
+insd
+jna 0x1df
+push rdi
+or edi,ecx
+rol dword [rax],1
+db 0x3f
+mov cl,0xd1
+push rdi
+add al,0x1a
+adc eax,0x17fc6df9
+insb
+jz 0x102
+db 0x8d
+fisub word [rbx+0x27]
+fsubr st0
+sbb [rsi],esi
+cli
+xlatb
+ss mov edx,0x327a054
+in al,dx
+mov ah,0xf1
+sbb ebx,[gs:rbp+0x28]
+o64 cmp al,0xb4
+ja 0x140
+db 0x8d
+call dword far [rbp+rcx*4+0xba366de]
+insb
+hlt
+add dword [rsi-0x4e137a39],0xe3687ff1
+
+o64 mov r14b,0xb5
+mov edi,0x6c8f26c8
+xchg eax,edi
+db 0xc4
+db 0xc6
+jpe 0x1ca
+mov dh,0x26
+scasd
+jl 0x1fb
+push qword 0xffffffffd64460fe
+adc ebp,[rdx+0x78b4249f]
+lea rdx,[rax]
+mov ch,0x29
+test al,0x91
+mov al,0x31
+mov [qword 0x84a235d51fc8a084],al
+
+xchg eax,esp
+js 0x175
+enter 0xafb2,0x49
+xchg eax,ecx
+sbb eax,[rdx+0x556e08c0]
+xchg eax,ecx
+db 0xd4
+mov dh,0xc4
+push rsp
+mov ecx,0x7d450e5e
+shr dword [rdx+rsi*8-0x51dac57f],byte 0xc9
+
+db 0x61
+and eax,0x5d312118
+xchg rax,r8
+pop rax
+cmp al,0x18
+rcr dword [rdx],1
+or [rbp-0x7b],ch
+db 0xc4
+push rbp
+db 0xc5
+o64 sbb r11b,[r10]
+push rbp
+sub [rdi],cl
+xchg edx,[rbp-0xe5676e8]
+js 0x250
+o64 adc r13b,[rdx+0x6f5ea9b6]
+and [rcx+0x35],ah
+in al,dx
+mov ebp,[rbp+0x41]
+xor esi,[rax+rbp*4+0x7dc76d8e]
+mov [rax+0x4],ebx
+xor al,0x83
+push rdx
+fild word [rsi-0x27]
+db 0x17
+fsubr dword [rax]
+db 0x37
+sub cl,al
+adc cl,al
+xchg dh,[rax-0x26]
+db 0xce
+and eax,0x5cad57cb
+mov esp,0xccf72e44
+out dx,al
+iret
+xchg eax,ebp
+or ecx,edi
+cmp ebp,edi
+mov ecx,0x1ce48cd2
+lock mov edx,0x57ecb576
+jrcxz 0x2ce
+db 0x63
+xor [rcx-0x2a250e57],ah
+rex.wxb
+ror dword [rax-0x782b54a6],1
+shl byte [rdi-0x3dcb8f3a],1
+mov ebp,0xde89990
+add eax,0x4ae3b671
+xchg eax,esi
+and edi,esp
+mov ecx,0xce7d660
+sub al,[rbp+0x7a]
+or [rdi-0x69],bl
+jc 0x25c
+db 0x61
+db 0x61
+pushf
+or eax,[rbx-0x560fa43f]
+cmp eax,0x1312cbc6
+add ebx,byte -0x10
+leave
+stc
+xchg eax,esp
+rol dword [rbp-0x6c],cl
+out dx,eax
+and ah,[rdi+0x38]
+pop rbp
+jmp 0xffffffffd39674d1
+outsd
+std
+cld
+fldenv [rcx]
+push qword 0xffffffff87d73747
+iret
+mov edx,0x1cf3f01b
+imul dword [rsi]
+db 0x62
+fcom dword [rbp-0x3f]
+lock cmp [rax+0x6b03c087],esp
+and bl,[rsi]
+rex.wrx
+rex.w
+db 0x37
+loop 0x2ea
+test [rdx+rax*2+0xc],bl
+or ebp,[rax+0xf]
+loop 0x33d
+or ecx,ebp
+cmp al,0x86
+nop
+add eax,[rax-0x781e7d79]
+adc bl,al
+ret
+fisttp qword [rdx+0x2bcf2618]
+mov cl,ah
+add [rdi+0x1d],edi
+xor [rax-0x10],ebx
+db 0x16
+loop 0x2a3
+test [rsi+rax*2],bl
+or al,0xd
+sbb eax,0xb49e0c45
+and [rsi-0x1dc70a8b],eax
+jl 0x356
+o64 and r8b,[rsi]
+db 0x0f
+ds cmp al,0x92
+nop
+db 0x0e
+db 0xc4
+loopne 0x2e9
+imul eax,esp,dword 0x20cf8130
+xchg cl,[rcx+0x586239fa]
+mov [rdx],segr7
+adc [rbx+0x6536510f],ecx
+push rbx
+gs push rbx
+gs push rbx
+gs push rbx
+ss std
+frstor [rdi+0x71de466f]
+lodsd
+db 0xc6
+call 0x6c069ec4
+and al,0x77
+mov dh,0x3f
+jnz 0x36b
+and [rcx],ebp
+jrcxz 0x369
+db 0x60
+in al,dx
+outsb
+rcr dword [rcx+rbp*8+0x7bb8e30e],cl
+pop rbp
+mov ebx,0x137e9f28
+mov [qword 0x36117e8b6e8bf493],eax
+
+mov fs,[rax+rax*4]
+fpatan
+popf
+imul ecx,[rax+0x2f],dword 0x8037cee2
+in al,dx
+rep sbb eax,0x35a8c694
+add byte [rbp-0x72d72419],0xd1
+o16 add bh,bh
+popf
+jg 0x32f
+rcr byte [rax],cl
+cmc
+add eax,0x500fa424
+sbb dh,[rbx-0x48b7167f]
+push rax
+jpe 0x3ad
+rcr byte [rax],cl
+db 0xea
+popf
+fild word [rcx+0x69]
+fs add eax,0xa31d21e6
+hlt
+sub al,0xa4
+sub edx,[rax+0x14694f5e]
+or eax,0x8aba40ac
+sar al,cl
+test [rdx],esp
+push rax
+test [rbp+rax-0x5b],esi
+mov cl,0x6a
+add [rel 0xffffffffe94a630b],bh
+sti
+xchg eax,ecx
+pop rsi
+db 0x8f
+mov ah,0x44
+imul edx,[rbp+rdx+0x40],dword 0x5017ce87
+sbb ah,[rbx]
+inc dword [rax+0xc]
+imul eax,[rdx+0x69],dword 0x42681d54
+cli
+db 0xd2
+jnz 0x391
+push rdi
+and [rbp-0x16b0057d],edi
+pop rdx
+enter 0xf436,0x87
+mov edx,0x7f65bfd8
+jng 0x42c
+stc
+test [rcx-0x12],esi
+push rdx
+push rbp
+insd
+mov ch,0x89
+mov gs,edi
+insb
+xchg eax,edi
+and dl,bh
+fild word [rax]
+jg 0x422
+ds xchg eax,esp
+jng 0x42a
+mov [qword 0x309a93daa86df366],eax
+
+movsd
+sbb eax,0xf325a1a1
+a32 sahf
+ret
+or al,bh
+cs xchg eax,esi
+adc dl,dl
+mov esp,0xf37c84d7
+o64 int1
+db 0xff
+mov ebp,0xa41fb527
+jng 0x498
+db 0xc5
+db 0xc6
+test eax,0xa5f92eb0
+rcr dword [rbp-0xc],1
+and [rsi],cl
+push rdi
+rol edi,byte 0xed
+int 0xda
+xor al,0xd2
+rcr dh,cl
+cld
+salc
+xor al,0x6c
+fistp qword [rsp+rax*2]
+jmp short 0x41c
+db 0x06
+cmc
+stosb
+rex.rx
+db 0xd4
+db 0x61
+jz 0x421
+mov cl,[rdi+0x26]
+fstp tword [rdi]
+xor [rdi],ah
+jng 0x4df
+int 0xe9
+cmp bl,dh
+db 0x1f
+mov ebp,0x19ea515a
+jz 0x4f7
+imul dword [rcx]
+sub eax,0xd544a60f
+sub ecx,byte +0x53
+mov al,[qword 0x86b696c7df68f530]
+
+db 0x16
+hlt
+db 0x07
+adc eax,0xebe03599
+db 0xce
+test byte [rdi+0x1d9ea84b],0xff
+mov cl,[rdx]
+mov [rsi+0x67],edi
+retf 0x65a8
+lea esi,[ss:rdx]
+mov edx,0x626fd3f3
+mov bh,0x99
+out 0xc1,eax
+db 0x37
+shl byte [rbx-0x6a],1
+lea edx,[r11]
+db 0x06
+or bh,[rdx]
+cwde
+o64 mov spl,0x13
+cmc
+popf
+jg 0x4dc
+cmp [rcx-0x5712d65e],ch
+sbb [rcx+rbx*4-0x115c51a9],dh
+imul esi,[rbx-0x371dd190],byte -0x5c
+mov al,0xb3
+pushf
+sbb ecx,[rax-0x6b]
+mov ecx,0x194ae99d
+db 0x3f
+db 0x1e
+push rax
+fadd to st0
+mov bl,[rbx-0x58]
+pop rsi
+retfq
+db 0x06
+or [rcx+0x72],bh
+fistp word [rsi-0x6445f97b]
+pop rbx
+sahf
+xchg cl,[rdx]
+db 0xd5
+int 0x2d
+sbb cl,[rdx+rdx*8-0x16]
+fs mov ebx,0x506effe9
+lea edi,[rcx]
+out 0x13,al
+mov ah,0x5d
+add ebp,[rdx-0x258ef858]
+es mov ebp,0x1f6d653d
+jns 0x54e
+fisub word [rbx]
+db 0x1f
+jns 0x55d
+sbb [rdx],bh
+int 0xd0
+sbb [rsi-0x6c5798c2],eax
+mov eax,[qword 0x897433750c990c73]
+
+mov al,0xce
+fidiv word [rax]
+mov ebp,0xd569fbd9
+db 0x06
+db 0x62
+sahf
+jmp 0x116372e9
+js 0x4c8
+test [rsi-0x2ab63332],esp
+cmc
+test al,0x33
+outsd
+db 0xc5
+cmpsb
+mov ch,0x5c
+rep or eax,0xf32cdd08
+int3
+pop rdi
+add dl,[rcx-0x5bdb3195]
+in eax,0xd1
+jng 0x56f
+xchg eax,ebx
+pop rax
+jna 0x586
+retf 0x2d52
+shl ecx,cl
+jmp 0x363ab3ab
+test rax,0x3d985996
+out 0x4a,al
+lea eax,[rsi]
+mov bh,0xc1
+loope 0x5aa
+out dx,al
+jo 0x529
+outsd
+nop
+ret
+out 0xcf,al
+mov esi,0x999f8743
+mov esi,esi
+in eax,0x37
+sbb edi,ebx
+mov r14b,0xca
+cld
+cwde
+o64 jng 0x584
+in eax,dx
+ret
+mov ebx,0xb49e83a6
+db 0xde
+shr dword [rsp+rbx-0x5a],cl
+fcomp qword [rcx-0x7b619474]
+mov esi,0xbb937302
+dec byte [rcx]
+fnsave [rsp+rdi*4]
+cmp eax,0x8f7b630e
+jmp short 0x5b5
+push rbx
+sub [rbx],eax
+jmp 0x73fc29d1
+mov [qword 0x4db182fce8194bcf],al
+
+xor [rdx+0x3d194ccf],esp
+insb
+outsb
+rex.wr
+sbb rax,rdi
+mov ecx,0xe1b1c16d
+mov ebx,0x32945e88
+cli
+nop
+fdivr dword [rbx]
+cmp [rcx-0xc],ecx
+mov eax,[qword 0x9c28c5caef0e3187]
+
+or al,0xb0
+hlt
+pop rsp
+db 0x1f
+pop rdx
+push byte -0x32
+loopne 0x59b
+jng 0x651
+insd
+cdq
+js 0x65e
+o64 ja 0x66c
+db 0x63
+xchg eax,esi
+db 0xde
+shr dword [rdi+0x29],1
+stc
+mov [qword 0xf950834e4f0748a5],al
+
+o64 cli
+lea ebx,[rdx+0x672bc9e4]
+xchg eax,ebx
+sbb eax,0xc185981f
+mov ds,[rbx+rcx*4-0x4d86db9b]
+mov eax,0x884ac163
+jpo 0x631
+mov ch,0x29
+ret
+add eax,0xac4e0ba2
+mov ebp,0x53abe88b
+xchg bl,[rbx]
+mov dh,ah
+xchg eax,esi
+xchg eax,ebx
+db 0x0e
+pushf
+lahf
+stc
+lock
+db 0xff
+fisub word [rbx-0x6]
+cmp eax,0xe820b72c
+jo 0x670
+jnl 0x6a7
+sub dl,[rbp+0x0]
+db 0xc4
+xchg eax,ecx
+xlatb
+pop rsi
+mov segr7,[rsi]
+sub [rbp+0x7],esi
+cmp ebx,esi
+sbb dword [rax],0xbd1a951d
+mov ds,[rbx+0x1af57a78]
+jpe 0x6f8
+mov ebp,0x526a7b98
+pop rdi
+out dx,al
+mov esi,0x9f4f3376
+mov ebx,0xf39d3cca
+popf
+in eax,0x69
+xchg eax,ecx
+int 0xd3
+and ch,dl
+jmp 0xffffffffd460503e
+outsd
+rex.wrxb
+pushf
+jpe 0x670
+xor ch,dl
+salc
+db 0x60
+mov dword [rbp+0x4f32673b],0xd3c1925f
+
+db 0xc7
+push rdx
+db 0xc6
+cmp [rbx-0x19],dh
+sub ecx,edi
+adc bh,ch
+rcl dword [rcx+rsi-0x1845857f],byte 0xcf
+mov al,[qword 0x753e49fb9f2090d7]
+
+ja 0x6fb
+and edx,[rdi]
+cld
+out 0x69,eax
+cdq
+call 0x14d4b09d
+jz 0x6d1
+in eax,dx
+cmpsd
+salc
+xchg eax,esi
+or dh,ch
+db 0xfe
+sub dl,[rdi-0x12444447]
+es fsubrp st6
+push rbx
+outsd
+or eax,eax
+fist dword [rdi+rdx*8-0x28a430f3]
+sub al,0xf3
+es lock push rbp
+nop
+repne
+db 0xf6
+mov [rdi+rax*4-0x74],segr7
+jl 0x6ab
+int 0xd1
+out 0xe8,al
+sbb cl,bh
+cs sbb ecx,edi
+outsb
+wait shr ecx,1
+cmpsb
+mov edx,0xa2141768
+jpo 0x765
+push qword 0x9fe9b57
+insd
+rcl dl,byte 0xfc
+adc [rax-0x51c8336a],ch
+mov [qword 0x9d939a780fa7b7ea],al
+
+leave
+adc esi,eax
+mov eax,0x79d8e0f6
+cmp edx,[rbx-0x71f47339]
+fnstsw [fs:rcx-0x7d8107dd]
+lodsb
+mov [qword 0xf95c2d823b98b7e3],eax
+
+jpe 0x7b5
+pop rbx
+rex.b
+repne sbb dword [rbp-0x16b46fa1],byte +0x74
+repne insb
+int1
+db 0x27
+neg dword [rsi+0x76760ad6]
+jrcxz 0x6ff
+sbb eax,0x7d29e9e3
+and edx,ecx
+mov dh,ch
+in al,0xb1
+popf
+rcl dword [eax-0x1a92c1d3],cl
+db 0x60
+int1
+mov esp,0xc662a65
+shl ebp,cl
+call 0xffffffffd924e3bd
+imul esi,[rcx+rax*2+0x4d1d26db],dword 0x5e3817d7
+
+call rbx
+sub ebp,[rsi+0x276ae062]
+cmp al,0xce
+db 0xd5
+push rbp
+imul ebx,ebp,dword 0xf97afb34
+db 0xda
+loopne 0x817
+ss out 0xa1,al
+xor [rsi],dl
+jng 0x774
+in eax,0xeb
+int3
+adc ebp,[rsi]
+db 0x27
+or r13,[rsp+r15]
+ret 0x3cd6
+jrcxz 0x751
+db 0x63
+push rdi
+wait push rsi
+mov bpl,0xdf
+o64 mov r13b,0xf
+sti
+xchg eax,esi
+xor bh,[rdx+0xb025014]
+o64 jpe 0x797
+in al,0xd
+sar dword [r10+0x27],cl
+sub al,0x3c
+adc ebp,[rcx]
+rex.rxb
+o64 jpe 0x79d
+db 0x8d
+in eax,dx
+db 0xdd
+imul ebx,[rbp-0x6a5855ab],dword 0xba26b38e
+
+o16 jno 0x7df
+scasb
+outsd
+lodsd
+xor eax,0xeb482d0a
+frstor [rsi+0x35]
+db 0x37
+ret 0x9ddb
+hlt
+pop rsi
+o64 jns 0x835
+movsd
+cmp ebx,[rdx-0x6e]
+cmp eax,0xccea0030
+pop rsp
+mov esi,0xe607e160
+o16 mov ch,0x77
+frstor [rbx-0x67]
+and eax,0x1c5be4aa
+xor dword [rdx+0xe64f93b],byte -0x30
+mov dh,0x2
+xchg rax,rbx
+mov ecx,0x961ec609
+sbb ebx,byte -0x34
+mov cl,0x7d
+xor al,0x53
+db 0x60
+div byte [rdx+0x1ef350cc]
+jo 0x7ee
+imul eax,[rdx],byte -0x53
+ror dword [rdx-0x15],cl
+int3
+mov cl,0xfa
+and eax,0x7b8fc1f
+mov [rcx],al
+mov bl,0xe8
+rex.r
+db 0x2f
+ss rep leave
+xor al,0x5c
+outsb
+jmp 0xffffffff815e6a72
+xchg cl,ch
+sub [rax],esi
+add esp,[rax-0x2c]
+loope 0x889
+enter 0x26d1,0xe3
+dec ebp
+shl eax,cl
+mov edi,0x7fc37343
+cmpsd
+ss lodsb
+imul ebx,[rbx*4-0x325ca2dd],byte -0x2b
+lock add ch,dl
+sbb cl,dh
+xchg eax,esp
+call rdi
+xchg eax,ebp
+jz 0x845
+movsd
+jmp short 0x90b
+retf
+or dword [rbp+0x1a747554],byte -0x9
+loopne 0x90b
+push byte -0x33
+push r15
+add al,0x6b
+pop rsi
+db 0x06
+ret 0x837a
+sub al,0xa0
+rcl byte [rbp+0x6f06fed3],cl
+nop
+xchg eax,esp
+rex.b
+db 0x17
+stc
+pop rsi
+out 0xa6,eax
+mov dl,[rcx+rax*2+0x7736f917]
+mov dh,al
+xchg eax,edi
+xchg rax,rbp
+cmp [rbx-0x610b6b67],ebx
+movsb
+jnc 0x92f
+neg dword [rdi]
+ror dh,byte 0xd
+and ecx,esp
+mov [qword 0xfdf349fad34b2d97],eax
+
+retf
+cld
+and eax,0x4adb0e20
+loope 0x8aa
+sbb dword [rbp-0x76],0xee740e59
+imul byte [rcx+0x4ee75850]
+db 0xd2
+db 0x37
+o64 stosb
+cs
+db 0x3f
+o64 fild qword [r11]
+out 0x5a,al
+lock iret
+or al,0x61
+db 0xdf
+out 0x41,al
+xchg eax,edi
+cdq
+db 0xdb
+db 0x60
+cwde
+call 0x7b7201ed
+retf 0x1b85
+db 0x17
+cli
+ds scasd
+xor edi,esp
+pop rsi
+shr dword [rsi-0x68],byte 0x3f
+xchg eax,ebp
+mov esi,0xa047cd7b
+db 0xd5
+db 0xfe
+jnl 0x908
+js 0x8ee
+db 0x9a
+mov [rbx+rdi*8],ch
+fidiv word [rdx]
+wait mov dl,0x29
+wait mov dl,0x29
+wait
+db 0xfe
+call [rdx]
+db 0xfe
+ds in al,dx
+adc byte [rdi],0xf7
+db 0xd4
+add al,0x21
+jns 0x96a
+db 0xd4
+mov eax,0xd213052a
+xchg eax,esi
+test al,0x1e
+xchg eax,edi
+push byte -0x6a
+push rsp
+push rsi
+salc
+or [rel 0x53e83313],rsi
+out 0x4b,eax
+db 0xd3
+repe cmpsb
+es mov dh,bl
+mov [rdi],dh
+mov [qword 0xa39b1224a62971a9],al
+
+jno 0x9e9
+push byte -0x78
+db 0x82
+movsb
+cmpsb
+xor al,0xaa
+push rdx
+cdq
+lea esp,[rdi]
+o64 cmc
+iret
+xchg eax,edi
+outsb
+and bl,[rdi+0x7e]
+adc ebx,esi
+insb
+push rdx
+lodsd
+mov r8d,0x5095d305
+sub al,0xa0
+hlt
+mov al,0x1a
+psubd mm4,[rsp+rax*2+0x7c850d40]
+push rcx
+mov edi,0x2b0a4b3a
+o64 rcr r13b,cl
+movsd
+movsd
+push rdx
+std
+db 0x16
+rex.wrb
+o64 adc al,0x43
+pop rbx
+jns 0x98c
+mov edx,[rdi]
+jg 0x961
+pushf
+lahf
+adc [rbx-0x6cbd853e],edx
+db 0xea
+push rbp
+rex.wb
+db 0xd4
+ret 0xdd7e
+and al,0x79
+push rbp
+and [rbp+0x49],edx
+test al,0x92
+db 0x1e
+or [rbp+0x7d],eax
+sbb esp,[rel 0x740ea9fe]
+sbb ch,[rdx+0x762a4981]
+xchg edx,[rdi+rax]
+jpo 0x97e
+mov edx,0x241b4526
+pop rdi
+pop rsp
+cmc
+db 0x07
+xor eax,0xe375afe8
+xlatb
+xchg eax,ebp
+fidiv word [rdi]
+mov ebx,0x64b95c2c
+mov [rdi-0x15a5b95a],esi
+pop rbp
+mov bl,0xd2
+mov ebx,0x8fc2ca14
+and rax,0x2f88cad2
+sbb cl,[rdi-0x2052c155]
+ror dword [rcx-0x28],byte 0xdf
+push rsi
+popf
+ficom dword [rbp-0x2bf04255]
+db 0xd5
+pop rdx
+sar byte [rdi],cl
+ret 0x9426
+db 0xfe
+es cwde
+sbb [rcx+0x3e31cf5a],edi
+out 0xbe,eax
+push rsi
+ret 0xce
+in al,dx
+stc
+sub bl,[rbp-0x14bc323a]
+db 0xc5
+jz 0xa55
+db 0x63
+cmpsd
+ret
+or byte [rdi+0x3612fe03],0xaa
+sbb [rdi-0x34],dh
+cld
+cmp bl,[rbp+0x51f8039e]
+ror byte [rdi-0x43fc1200],byte 0xd
+jo 0xa56
+jmp [rsi-0x50fe042d]
+add esp,ebx
+db 0x06
+mov eax,0xc039f017
+mov edi,0xb0dda749
+ja 0xa59
+call 0x167b1bc
+sahf
+int1
+db 0x17
+fdivr dword [rbx]
+add [rsi+0xd],bh
+db 0xde
+fcmovnu st3
+add [rdi+0x1f65781],cl
+sar byte [rdi],byte 0x1
+jl 0xa9d
+lock or eax,[rax-0x3c09ff31]
+o16 mov al,[qword 0xb5226013c041f00f]
+
+add ch,[rsi]
+int 0x61
+ss push rdx
+wait mov bh,0x56
+adc eax,edi
+ss mov bh,0x63
+jl 0xa68
+retf
+mov ch,0xc7
+sar dword [rsi+0x13],byte 0xc5
+scasd
+cmp eax,0xfd3f60dd
+in eax,dx
+jng 0xaa3
+push rax
+mov bh,0x44
+fsubr st7
+clc
+lodsd
+adc [rdx+0x60],ah
+rex.r
+rex.b
+mov eax,0xffc88d97
+xchg edx,[rcx+0x135735c3]
+pop rcx
+jz 0xad0
+jnl 0xb0a
+retf 0x4ca7
+db 0xc6
+jpe 0xad5
+pop rcx
+loope 0xaf0
+db 0xd4
+mov bl,0xbe
+cmp esp,[rcx+0x3d]
+cld
+push rsi
+int1
+cmp esi,eax
+jnl 0xb06
+db 0x16
+push rsp
+mov segr6,[rax-0x11]
+jna 0xb22
+mov esi,0x91a97725
+rep clc
+xchg ebp,ebp
+shl byte [rdx],1
+xchg eax,ebx
+db 0xc1
+mov al,0xff
+and cl,al
+xchg eax,esp
+db 0xdb
+or [ss:rdx],dh
+scasd
+add edi,[rdi+rax+0x32]
+db 0x2f
+fsub dword [rsp+rbx*4-0x31]
+xor [rcx],esp
+mov ah,0x19
+imul dword [rbp+rcx*2-0x28]
+mov edi,0xfaacca2
+sti
+jnz 0xb05
+scasb
+xor eax,[rax]
+cld
+db 0xc5
+ss sbb eax,0x3076855b
+mov dl,0x7a
+adc ah,[rsi+rdi*2+0x63]
+outsd
+out 0x5f,eax
+cwde
+adc dl,cl
+fmul qword [rdi+0x75e304e3]
+shr dword [rsi],byte 0x73
+and eax,[ss:rbx-0x7eb19299]
+int3
+push rdi
+jna 0xae9
+db 0x3f
+fs jna 0xad6
+int3
+jng 0xb70
+fbstp tword [rbp+0x266a9976]
+sbb dword [rdi-0x2f],byte -0x10
+insb
+retf
+sub [rax+0x6410edd9],edx
+mov esp,0xae18e64f
+pushf
+lodsd
+mov segr6,esi
+retf 0x9513
+int3
+cmp eax,0xce34efaa
+sub ebx,[rax+0x7d768d1f]
+xor dl,bl
+xchg ebx,edi
+mov ch,0x7a
+rex.b
+add dh,[es:rdx]
+jmp short 0xbfa
+xor cl,al
+sub eax,[rdx-0xfd50d87]
+cmp al,0x36
+db 0x1e
+sbb eax,0x1bfde07f
+ds lock mov ah,0xeb
+jng 0xbd3
+sar edi,cl
+mov ch,0x20
+mov bl,0x1e
+out 0xe5,al
+add dl,[rcx+0x66]
+or esi,[rbx]
+adc bh,al
+add r15d,esi
+jna 0xb98
+mov ebx,0x36c0fcf8
+test dword [rax+0x59],0x4f30ca0c
+mov esp,0x7386dc23
+int 0x8
+int1
+or al,0x47
+gs push rbx
+gs push rbx
+gs push rbx
+gs push rbx
+ss std
+jnl 0xb82
+sbb eax,0x384f61a3
+db 0x9a
+popf
+xchg eax,ebp
+scasd
+mov edi,eax
+or esi,[rbx]
+outsb
+repne outsb
+add [rax+rdi*4],edx
+popf
+nop
+fisttp dword [rax]
+cmp ecx,[rbx+0x39]
+sahf
+mov al,0xb3
+mov dl,0x50
+iret
+push rsp
+o64 loopne 0xbf8
+pop rdi
+scasb
+cmpsd
+mov [qword 0x3b0e7f79c6760edd],eax
+
+ja 0xbaf
+rsldt tword [rcx-0x74]
+db 0x0f
+jno 0xc98
+cmp eax,0xb723a99c
+repne imul al
+jns 0xc18
+in al,dx
+jl 0xc5b
+sahf
+loope 0xbef
+clc
+add eax,0xd1e2ebcf
+db 0xc6
+mov [qword 0xf1746765ca1f2cb9],eax
+
+db 0x27
+push rdi
+cmp al,0xcb
+mov segr6,[rcx-0x38]
+sbb eax,0xa74b5f1c
+mov [qword 0xa5c83e701d7dd6a0],eax
+
+sbb [rbp-0x30bbe441],ecx
+add byte [rcx+0x57],0x1
+pop rbx
+sti
+sar byte [rdi+0x7499e126],cl
+sub ebp,[rel 0x21f4f6a]
+push qword 0xfffffffff004d800
+and al,0xc0
+mov bl,0x0
+db 0x2f
+add [rbx+rax-0x81ffd90],edi
+add [rdi+0x2],bh
+mov eax,0x8c04300c
+sbb eax,0x600d3003
+cs
+db 0xc0
+mov dl,0x51
+db 0x37
+outsb
+and edi,edi
+db 0xf6
+rex.wr
+db 0x1e
+iret
+lahf
+jng 0xcf3
+xchg eax,edx
+repne pop rax
+sub al,0x5a
+and dl,ch
+hlt
+xchg edx,esp
+rex.wx
+push rdx
+lodsb
+sbb [rcx+0x52],bh
+sahf
+push rsp
+push rsi
+sub al,0x2d
+lea ebp,[rsi-0x7a]
+sbb [rdx-0xf],bl
+jng near 0xfffffffff2a50057
+db 0x62
+test eax,0x93cf983f
+o16
+db 0x17
+o64 fisub word [r14+0x2d2796a0]
+xchg eax,esp
+enter 0x25f2,0x4b
+out 0x4b,al
+shr ebx,cl
+db 0xea
+cmc
+mov [rsi-0x619a9ab5],ah
+fstp dword [rsi-0x62cd6d2e]
+xchg eax,edx
+gs
+db 0x8f
+xchg eax,edi
+xchg eax,edi
+jpo 0xd2d
+out 0x14,eax
+rep loop 0xca9
+jna 0xc73
+ja 0xcf4
+pop rsp
+in al,0xeb
+hlt
+xor al,al
+lahf
+cmp bl,[rax-0x54]
+db 0x82
+out 0x7b,eax
+or ebp,[rbp+0x7c]
+sbb al,0xab
+add edi,[rdi+rbp-0x6afb9b64]
+jmp short 0xd1b
+call 0x39cd91e5
+mov eax,esi
+db 0x8f
+loop 0xcec
+sub ch,[rbx+rdi*8-0x61f71cf6]
+cmpsb
+jg 0xd99
+mov eax,[qword 0x9043be1b3d1176d5]
+
+db 0xc7
+jns 0xcda
+scasd
+lahf
+pop rdi
+cmp al,ah
+lodsb
+cmp dh,[rsi+0x57ca2aff]
+mov al,0xb9
+test edx,edi
+lock
+db 0x27
+cmpsb
+jnl 0xd3e
+std
+adc eax,esp
+push rsi
+cmp esi,0x15a3e03d
+salc
+popf
+xor byte [rcx+0x4],0x7f
+and eax,0x3c681368
+db 0x63
+sub al,0x1
+std
+db 0x63
+rex.wx
+db 0x8f
+sbb eax,0xc079efe4
+cmp eax,0x467b2c53
+psubsb mm7,[rbx]
+in al,0xe3
+fscale
+std
+std
+neg dh
+sbb rax,0x49649d6d
+mov [rdx+0x2df7e567],fs
+mov dl,0xf8
+db 0x63
+xor rax,rdx
+cmovnc esp,[rax]
+test ecx,esi
+fild qword [rax-0x10]
+ja 0xda7
+rol byte [rdi],1
+rcr al,byte 0xb
+pushf
+pop rsi
+sub al,0xc
+or [rel 0x23a37d13],bh
+mov dh,0xb3
+out dx,eax
+jpo 0xd1e
+outsb
+sbb ebp,eax
+cld
+sbb ebp,ebp
+sbb al,0x41
+mul dl
+ret
+push rdi
+db 0x61
+int1
+db 0xc7
+xchg eax,edx
+add esi,[rsi-0x17279006]
+jna 0xdd0
+jnl 0xd91
+jrcxz 0xe31
+lea edx,[rbx+0x63]
+or cl,al
+fcom dword [rsi]
+in eax,dx
+mov ebx,0x89e360e0
+test eax,0x6d7ff400
+xchg eax,ebx
+scasd
+add byte [rbp-0x20],0x7d
+lock outsd
+sbb eax,0x64e9c7f7
+imul ecx,[rel 0x124749c5],byte -0x49
+jnc 0xd82
+cld
+cmp [rbx],bl
+cmp eax,0x1ddb7f1b
+insd
+leave
+ret
+cld
+adc eax,edi
+js 0xe29
+shr dword [rdi-0x6d],byte 0xd7
+cmp dword [rsi],0x21d6c854
+insb
+movsx esi,word [rbx-0x127a78d4]
+rex.xb
+rex.wrx
+out dx,eax
+adc edx,edi
+add ebp,ebp
+std
+test [rbp+0x6fa021fe],ebp
+add edi,[rcx+0xf]
+xchg eax,edi
+jg 0xe23
+call 0x2d77fe43
+cmpsd
+db 0x8f
+or esi,edx
+adc al,al
+mov dh,0xfa
+a32 popf
+cdq
+out 0x7e,eax
+xchg eax,esp
+jnc 0xe5a
+mov ecx,0xf7781ce8
+db 0x60
+or [rdx+rbx*4+0x41],ah
+jo 0xe53
+xlatb
+ja 0xe5a
+clc
+xchg eax,edi
+rcr esi,byte 0xdf
+jo 0xe1e
+popf
+xor edx,[rax-0x21]
+in eax,dx
+ss mov edx,0x7cf46d8
+cli
+xor ecx,eax
+xchg eax,esp
+rep cli
+pop rsi
+or dword [rdi+0x4d9d618f],0xe3e811be
+
+std
+dec byte [rdi-0x85fdedd]
+ret 0xfd34
+mov dl,bh
+call dword far [rcx+0x2a51dd93]
+in eax,0x74
+push rbx
+db 0x0e
+jnc 0xe4c
+mov dl,0xff
+or [rbx+0x711c96fe],ebx
+cld
+db 0xc7
+db 0xd1
+test dword [rdx],0x780b81ae
+std
+add dword [rax-0x51],byte -0x14
+db 0x1f
+out dx,eax
+adc esp,esp
+pop rbp
+mov al,[qword 0x77fe9011df676eab]
+
+mov al,[qword 0xa3ff97317ff02df]
+
+cli
+mov al,0xff
+mov edx,0xbfb0f684
+jnc 0xe5c
+retf
+cmp [rsi+rdi*8+0x785c3270],dh
+add eax,edx
+mov ebx,0x16e74021
+mov dl,0x3b
+xor ch,[rax-0x1d072b71]
+pop rdx
+cdq
+db 0x27
+rex.wx
+fs pop rcx
+test eax,0xd29aca0f
+o64 mov al,[qword 0xc91f1e0d0de9a120]
+
+fadd qword [rsi-0x134f4a70]
+ret
+imul ecx,[rsi],byte +0x9
+nop
+hlt
+in eax,0xc6
+push rax
+mov ah,0x5e
+or ecx,ecx
+jng 0xf1e
+sbb cl,[rdi-0x38]
+mov bl,dh
+jl 0xeca
+jo 0xf27
+movsb
+push byte -0x56
+db 0x1f
+push rsi
+int 0x1b
+o64 loopne 0xf0a
+xchg eax,ecx
+mov al,[qword 0x688d5916cae3c4ac]
+
+int1
+sub eax,0x84ae21a4
+push rbp
+fldcw [rdi-0x5fa43c79]
+mov al,[rax-0x37]
+and [rcx+0x6d8d100d],ch
+mov es,[rax+0x4d17d639]
+sbb esp,ebp
+enter 0xda10,0xe6
+test al,0x40
+add al,0xe2
+stosb
+o64 sbb dl,[rbp-0x1705c88]
+fild word [rdx+rax*8+0x6a]
+cmpsd
+ss sub eax,0xed5caeab
+xchg eax,ebp
+mov ebp,0x5e2966b
+mov fs,[rbp-0x46aca5c1]
+jpe 0xf3c
+adc ch,[rax]
+pop rsi
+mov esi,0xaef64ea6
+loopne 0xf3d
+adc eax,0xbc89ab4b
+jl 0xf3d
+add ecx,[rbx+0xfc9572b]
+sub al,0x5b
+push rsi
+jrcxz 0xf20
+xchg eax,ebp
+imul ebp,[rbx],byte +0x17
+scasd
+repne retf 0x7d84
+lodsb
+xchg eax,ebp
+loope 0xf75
+adc bl,ah
+in al,0x53
+o64 add dil,[r15+0x7a6d317]
+pop rbp
+jo 0xf37
+adc dh,ch
+xchg eax,esp
+loopne 0xf60
+xchg eax,esi
+mov cl,ah
+insd
+xchg eax,ebx
+wait pop rdi
+xor [rcx-0x66],ebp
+db 0x37
+xlatb
+shr dword [rax+0x7cc726a],cl
+outsb
+call 0xfffffffffa9e9d3c
+es jng 0xffd
+push rax
+shr dword [rdi-0x41],byte 0x8
+and eax,0x508c7aec
+outsd
+ror byte [rax+0x28a7c55],cl
+ret
+cmpsb
+cli
+adc eax,0x7817e14d
+rex.r
+wait jo 0x1029
+fmul dword [rbp+0x1e]
+mov cl,0xd4
+jna 0xf8d
+cmpsb
+and dh,[rbx+0x79]
+out 0x6,al
+xchg bh,dl
+wait insb
+xchg eax,edi
+sub byte [rdx],0xc4
+jpo 0x101b
+in al,dx
+cmp cl,[rdi-0x76a14360]
+push rsp
+jpe 0xfae
+salc
+db 0x82
+db 0x61
+adc eax,0x94c1126f
+add ebx,ebp
+pop rax
+db 0x2f
+rcr byte [rbx],cl
+rex.x
+db 0x82
+cmp [rdi-0x3bb5fc6f],dl
+db 0x1f
+db 0x82
+jpe 0x104b
+cwde
+o64 loop 0x1065
+jnz 0xfeb
+in eax,0x1c
+mov esp,0x13c034a7
+jg 0x103b
+retf 0xeeb
+mov esi,0x88a384d9
+mov bl,0x89
+pop rdi
+adc bh,[cs:rbx+0x6c4ac35]
+idiv byte [rbx+0x48]
+adc eax,0x8c8e9dbb
+mov [rbx+0x1262dd8b],segr6
+gs fld st5
+and eax,0x623508d1
+mov ch,0xc6
+o16 test al,0xdc
+adc [rbx+0x3df99b03],dl
+stosb
+add esi,edx
+salc
+db 0x27
+adc bh,[rbx+rbx+0x1ba96de8]
+hlt
+mov dh,0xd2
+xor al,0x68
+js 0x104f
+stosb
+xchg eax,ebp
+adc ah,[rdx]
+jng 0x1023
+db 0x1f
+xchg eax,edx
+stc
+cs or ah,ah
+db 0x60
+mov ds,[rcx+0x73]
+db 0xfe
+jpo 0x10a1
+sub eax,0xe06de7d1
+mov ebp,0x2624ccad
+fdiv dword [rsi]
+mov eax,0x627e6b0a
+pop r8
+push rbx
+db 0xea
+add [rbx+0x67],eax
+push rcx
+sbb al,0xb0
+jc 0x10d0
+cld
+and rax,0xffffffffa8913c46
+cmpsb
+jpe 0x10b3
+loope 0x101c
+stosd
+xlatb
+and dword [rcx],byte +0x7f
+o64 ror r15b,1
+mov ebp,[rdx]
+db 0x17
+scasd
+sub al,0xc1
+mov ch,0x85
+repne add cl,[rdx+0x22]
+cmp al,0xfe
+sub eax,0xb0c7d011
+db 0x16
+a32 pushf
+o64 push byte +0x3c
+adc [rsi+rax*2-0xfcdeffa],ecx
+loop 0x1130
+or ch,ah
+pop rax
+es
+db 0x16
+db 0xd2
+mov al,0x41
+mov al,0x18
+mov bl,0x9e
+db 0xc6
+sub [rsp+rsi-0x4b],ah
+or esi,edi
+rcr dword [rcx-0x16b87614],cl
+imul dword [rax+0x4a6be01]
+cld
+int1
+or al,0xc5
+stosb
+mov dl,0xc5
+test ebp,edx
+mov al,0xf2
+rol byte [rax-0x1b1679ee],1
+db 0x61
+db 0xd5
+db 0x61
+sbb al,0x88
+db 0x07
+push rsi
+xor eax,0xfc8d6118
+db 0xd5
+or [rbx+0x3],esp
+jl 0x10ce
+jrcxz 0x1176
+mov r12,0xf4778ff5eb256a87
+
+xchg dh,[rdx+0x39]
+jmp short 0x10d8
+out 0x14,eax
+rex.b
+db 0xce
+pop rdx
+mov dh,0xe7
+or dh,[rdx-0x48]
+iret
+mov ah,0xf6
+db 0x9a
+jna 0x1163
+cmp al,0x2d
+jpe 0x1147
+idiv bl
+sub [rdi-0x68c8b7cf],al
+retf
+adc eax,0x10d610e4
+db 0x16
+xchg esp,[rax+0x826c61c]
+sub eax,0x38ab160e
+mov eax,0x1e3ebe0c
+and bl,[rcx-0x310763c5]
+mov eax,0x58bbd85f
+fld st7
+or [rbx+0x630e503b],cl
+db 0x0e
+test [rdx-0x5f],dh
+pop rbp
+db 0x27
+db 0x07
+mov esp,0xcb9d78b3
+db 0x61
+lodsb
+db 0x82
+mov al,0x9e
+or al,0x6c
+db 0x17
+rcl dword [rsi-0x80],cl
+db 0x61
+mov esp,0x83ec60e
+push rbp
+ss
+db 0x3f
+xor dh,dh
+xor [rax+0x3117be1c],edi
+push rsi
+fadd st3
+in eax,0xc6
+or [rdx+0x4f],dh
+jnc 0x1191
+salc
+sbb eax,0xf51b845c
+rep push rbx
+db 0x82
+pop rsp
+imul eax,[rcx],dword 0xb7f04903
+or bl,0x3e
+and ecx,eax
+push rbp
+lea esp,[rdx-0x20]
+db 0x16
+hlt
+mov ecx,0x20b3fc39
+xchg edi,ebx
+add eax,0x81b0f704
+cli
+xor [rel 0xffffffffdf70f5d6],bl
+db 0x17
+loopne 0x11b4
+jng 0x1182
+jnl 0x1188
+es cdq
+jns 0x1212
+db 0x07
+db 0x16
+loopne 0x1228
+mov es,ecx
+jc 0x1184
+or [rdx-0x1e],esi
+cmp eax,0x7bdcbb61
+db 0x82
+pop rsp
+in eax,dx
+fs
+db 0x06
+xchg ebx,[rbx+rax*4-0x7fc1cf1b]
+pop rbp
+add cl,[rbx-0x44de8ab]
+int 0x62
+imul r9,rbp,dword 0x4600cfab
+jc 0x1234
+mov [rdi-0x62],ss
+call dword far [rsi]
+mov ecx,0x515f723f
+mov ds,esi
+xor esi,byte +0x64
+out dx,al
+pop rbx
+jc 0x11e7
+jg 0x11e0
+jc 0x120e
+lodsb
+sbb [rcx-0x21],bh
+pop rbp
+xor [rdi],dl
+outsb
+mov al,[qword 0xe074b5bee8e414cf]
+
+std
+pop rcx
+mov ebx,esp
+scasd
+mov eax,0xfdc3945e
+db 0xd3
+ss nop
+pop rbx
+jno 0x11b7
+jng 0x122f
+xchg ch,bl
+mov bl,0x42
+db 0x3f
+xchg eax,esp
+wait sub eax,ecx
+cmp [rax+rdx],eax
+mov edx,0x5c82b48b
+cmpsd
+mov edi,[rel 0xffffffffe648f64d]
+cmp [rdx],ebx
+o16 fld st6
+rcr dword [rsi-0x2f60be45],cl
+xor esi,edx
+adc [rsi+0x79bdc9b2],cl
+db 0x2f
+and [rbp+0x64],edi
+mov al,0xdc
+inc dword [rcx]
+push rcx
+db 0x3f
+jno 0x12af
+cmp [rdi],bh
+add [rax],al
